@@ -12,4 +12,5 @@ git diff
 git reset commit_message
 gir reset--hard HEAD@{1}
 git reset head^1
+git checkout file_name
 ~~~
