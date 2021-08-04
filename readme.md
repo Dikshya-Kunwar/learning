@@ -9,4 +9,7 @@ git commit -m file_name
 git push origin HEAD
 git log
 git diff
+git reset commit_message
+gir reset--hard HEAD@{1}
+git reset head^1
 ~~~
